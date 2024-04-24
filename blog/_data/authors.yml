@@ -44,3 +44,18 @@ Paul Yu:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pauldotyu"
+
+Anson Qian:
+  name        : "Anson Qian"
+  bio         : "Anson works on AKS and Azure Cloud Native Platforms and is responsible for reliability and scalability efforts."
+  avatar      : "https://pbs.twimg.com/profile_images/1779868551827886080/9WVeJhNi_400x400.jpg" # Replace this with your avatar image
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ansonqian@microsoft.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aqian/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/anson627"
